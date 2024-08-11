@@ -1,0 +1,54 @@
+
+  .headercontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .headingcontent{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style-type: none;
+    gap: 20px;
+    padding: 20px;
+    width: Hug (636px)px;
+    height: Hug (24px)px;
+    top: 140px;
+    left: 402px;
+    gap: 64px;
+    opacity: 0px;
+    
+  }
+  .header-icons {
+    display: flex;
+    gap: 15px;
+    text-align: end;
+    width: Hug (244px)px;
+    height: Hug (24px)px;
+    top: 46px;
+    left: 1100px;
+    gap: 24px;
+    opacity: 0px;
+
+  }
+  .Logo{
+    justify-content: center;
+    text-align: center;
+    width: 107px;
+    height: 44px;
+    top: 36px;
+    left: 667px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 43.57px;
+    letter-spacing: 1px;
+    text-align: left;
+    color:#000000;
+  }
+  

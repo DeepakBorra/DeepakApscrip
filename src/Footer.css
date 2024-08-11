@@ -1,0 +1,44 @@
+
+.footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+  }
+  
+  .footer-top {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .footer-links {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .product-listing {
+    display: flex;
+  }
+  
+  .filters {
+    width: 25%;
+  }
+  
+  .products {
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .product-item {
+    width: 30%;
+    margin: 10px;
+  }
+  .social-icons{
+    margin: 5mm;
+    padding: 5px;
+    gap: 15px;
+  }
+  
